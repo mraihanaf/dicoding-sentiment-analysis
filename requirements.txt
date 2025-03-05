@@ -1,0 +1,6 @@
+google-play-scraper
+pandas
+numpy
+nltk
+scikit-learn
+tensorflow
