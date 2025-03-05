@@ -15,4 +15,4 @@ df.columns = ["review", "rating"]
 
 df.to_csv('duolingo_review.csv', index=False)
 
-print("Scraping finished! Data saved as genshin_reviews_balanced.csv")
+print("Scraping finished! Data saved as duolingo_reviews.csv")
